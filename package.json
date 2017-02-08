@@ -32,4 +32,5 @@
     "platform": "all",
     "arch": "all",
     "targetDir": "../../ios"
+  }
 }
