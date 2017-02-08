@@ -1,6 +1,6 @@
 {
   "name": "react-native-admob-ios-sdk-prebuilt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "admob dependencies auto fetch for react-native-admob",
   "main": "index.js",
   "scripts": {
