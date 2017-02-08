@@ -1,0 +1,34 @@
+{
+  "name": "react-native-admob-ios-sdk-prebuilt",
+  "version": "0.0.1",
+  "description": "admob dependencies auto fetch for react-native-admob",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanekotic/react-native-admob-ios-sdk-prebuilt.git"
+  },
+  "keywords": [
+    "prebuilt",
+    "react-native",
+    "admob",
+    "sdk",
+    "ios"
+  ],
+  "author": "kanekotic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanekotic/react-native-admob-ios-sdk-prebuilt/issues"
+  },
+  "homepage": "https://github.com/kanekotic/react-native-admob-ios-sdk-prebuilt#readme",
+  "dependencies": {
+    "any-prebuilt": "0.0.9"
+  },
+  "prebuilt": {
+    "user": "kanekotic",
+    "repo": "react-native-admob-ios-sdk-prebuilt",
+    "platform": "all",
+    "arch": "all",
+    "targetDir": "../../ios"
+}
