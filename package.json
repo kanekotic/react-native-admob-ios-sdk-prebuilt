@@ -4,7 +4,8 @@
   "description": "admob dependencies auto fetch for react-native-admob",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node postinstall.js"
+    "postinstall": "node postinstall.js",
+    "test": "echo awesome you are running tests"
   },
   "repository": {
     "type": "git",
