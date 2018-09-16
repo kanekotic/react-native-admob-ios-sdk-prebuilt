@@ -15,9 +15,9 @@ ajv@^5.3.0:
     fast-json-stable-stringify "^2.0.0"
     json-schema-traverse "^0.3.0"
 
-any-prebuilt@1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.7.tgz#d9e2849d81c8041723c122b8dbc171db20642ebc"
+any-prebuilt@1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.8.tgz#c79b3665d00bed0f84822f40327aabc7e403ac59"
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "7.0.0"
@@ -110,8 +110,8 @@ chainsaw@~0.1.0:
     traverse ">=0.3.0 <0.4"
 
 chownr@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.0.1.tgz#e2a75042a9551908bebd25b8523d5f9769d79181"
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.1.tgz#54726b8b8fff4df053c42187e801fb4412df1494"
 
 co@^4.6.0:
   version "4.6.0"
@@ -315,8 +315,8 @@ jsprim@^1.2.2:
     verror "1.10.0"
 
 lodash@^4.13.1:
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+  version "4.17.11"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
 mime-db@~1.36.0:
   version "1.36.0"
@@ -432,7 +432,7 @@ qs@~6.5.2:
 
 readable-stream@^1.1.8:
   version "1.1.14"
-  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9"
+  resolved "http://registry.npmjs.org/readable-stream/-/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9"
   dependencies:
     core-util-is "~1.0.0"
     inherits "~2.0.1"
@@ -441,7 +441,7 @@ readable-stream@^1.1.8:
 
 readable-stream@^2.0.0, readable-stream@^2.1.5, readable-stream@^2.3.0, readable-stream@^2.3.5:
   version "2.3.6"
-  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.6.tgz#b11c27d88b8ff1fbe070643cf94b0c79ae1b0aaf"
+  resolved "http://registry.npmjs.org/readable-stream/-/readable-stream-2.3.6.tgz#b11c27d88b8ff1fbe070643cf94b0c79ae1b0aaf"
   dependencies:
     core-util-is "~1.0.0"
     inherits "~2.0.3"
