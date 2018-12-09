@@ -17,15 +17,15 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.19:
-  version "1.0.19"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.19.tgz#d3be20391d70e6b82e1c362a943516a4d20b0149"
-  integrity sha512-Npg//imzDZBiMF7XwYQxDqSkya9gnDfg3JfPwQjk/dm+Upvgetlh6yTr0XSCT4V+FrRJJnt4GoaVa7LX9hfsOw==
+any-prebuilt@1.0.20:
+  version "1.0.20"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.20.tgz#764fc8546c3ea18d07fc8c2bbeddfd1754465a55"
+  integrity sha512-+iAZ7ahM36QpvbDTzDEP89xgy/w0mVMKr6/jSvE6b0CcQUysNCpoxxS4Ac34RVU+jRaJvMP4sL5PZDhndWMd6A==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "7.0.1"
     gunzip-maybe "1.4.1"
-    progress "2.0.1"
+    progress "2.0.3"
     request "2.88.0"
     request-promise-native "1.0.5"
     tar-fs "1.16.3"
@@ -455,10 +455,10 @@ process-nextick-args@~2.0.0:
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.0.tgz#a37d732f4271b4ab1ad070d35508e8290788ffaa"
   integrity sha512-MtEC1TqN0EU5nephaJ4rAtThHtC86dNN9qCuEhtshvpVBkAW5ZO7BASN9REnF9eoXGcRub+pFuKEpOHE+HbEMw==
 
-progress@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.1.tgz#c9242169342b1c29d275889c95734621b1952e31"
-  integrity sha512-OE+a6vzqazc+K6LxJrX5UPyKFvGnL5CYmq2jFGNIBWHpc4QyE49/YOumcrpQFJpfejmvRtbJzgO1zPmMCqlbBg==
+progress@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
+  integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
 psl@^1.1.24, psl@^1.1.28:
   version "1.1.29"
