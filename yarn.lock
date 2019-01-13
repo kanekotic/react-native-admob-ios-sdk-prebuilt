@@ -17,10 +17,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.24:
-  version "1.0.24"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.24.tgz#33b74f9420ae6390582d02bd781cc59d8161ed4f"
-  integrity sha512-2VCG2TyvUiIeQUmNx6oy4mx+YbJr7kyL5082qVU6kdddUSGaSkmAV1xRQQ4D/31Bj4r4OJu1/ZdnG9X6d9fMtg==
+any-prebuilt@1.0.25:
+  version "1.0.25"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.25.tgz#2cdb3ee422e2ff94f6accbfd94acbf10d9d8aea7"
+  integrity sha512-jAJaBoUSpCa9nIEbbzp7qdZPSaQ/ZxLMt8yIf8M7r8cT9OO3rVfr43Ny4IeWIYVZm/iNfYPt5BiC2IOtxwqLXA==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "7.0.1"
@@ -341,6 +341,11 @@ inherits@2, inherits@^2.0.1, inherits@^2.0.3, inherits@~2.0.1, inherits@~2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
+
+ip-regex@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/ip-regex/-/ip-regex-3.0.0.tgz#0a934694b4066558c46294244a23cc33116bf732"
+  integrity sha512-T8wDtjy+Qf2TAPDQmBp0eGKJ8GavlWlUnamr3wRn6vvdZlKVuJXXMlSncYFRYgVHOM3If5NR1H4+OvVQU9Idvg==
 
 is-deflate@^1.0.0:
   version "1.0.0"
@@ -730,10 +735,11 @@ touch@0.0.3:
     nopt "~1.0.10"
 
 tough-cookie@>=2.3.3:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.5.0.tgz#cd9fb2a0aa1d5a12b473bd9fb96fa3dcff65ade2"
-  integrity sha512-nlLsUzgm1kfLXSXfRZMc1KLAugd4hqJHDTvc2hDIwS3mZAfMEuMbc03SujMF+GEcpaX/qboeycw6iO8JwVv2+g==
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-3.0.0.tgz#d2bceddebde633153ff20a52fa844a0dc71dacef"
+  integrity sha512-LHMvg+RBP/mAVNqVbOX8t+iJ+tqhBA/t49DuI7+IDAWHrASnesqSu1vWbKB7UrE2yk+HMFUBMadRGMkB4VCfog==
   dependencies:
+    ip-regex "^3.0.0"
     psl "^1.1.28"
     punycode "^2.1.1"
 
