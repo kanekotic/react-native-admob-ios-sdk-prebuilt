@@ -8,19 +8,19 @@ abbrev@1:
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
 ajv@^6.5.5:
-  version "6.6.2"
-  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.6.2.tgz#caceccf474bf3fc3ce3b147443711a24063cc30d"
-  integrity sha512-FBHEW6Jf5TB9MGBgUUA9XHkTbjXYfAUjY43ACMfmdMRHniyoMHjHjzD50OK8LGDWQwp4rWEsIq5kEqq7rvIM1g==
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.7.0.tgz#e3ce7bb372d6577bb1839f1dfdfcbf5ad2948d96"
+  integrity sha512-RZXPviBTtfmtka9n9sy1N5M5b82CbxWIR6HIis4s3WQTXDJamc/0gpCWNGz6EWdWp4DOfjzJfhz/AS9zVPjjWg==
   dependencies:
     fast-deep-equal "^2.0.1"
     fast-json-stable-stringify "^2.0.0"
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.25:
-  version "1.0.25"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.25.tgz#2cdb3ee422e2ff94f6accbfd94acbf10d9d8aea7"
-  integrity sha512-jAJaBoUSpCa9nIEbbzp7qdZPSaQ/ZxLMt8yIf8M7r8cT9OO3rVfr43Ny4IeWIYVZm/iNfYPt5BiC2IOtxwqLXA==
+any-prebuilt@1.0.26:
+  version "1.0.26"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.26.tgz#16f5628d156e4a533c4e02d85288b93e48cb3d51"
+  integrity sha512-CrBZwkwX20s+wm8Qqvqz42hVvKhokAERPRzphnFkgyj7NsFBPKo8/G2s4p6FLJvSAffpqglOeLvp/iBbXrsvwQ==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "7.0.1"
