@@ -17,10 +17,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.37:
-  version "1.0.37"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.37.tgz#8ee28ed9bb0985ca38c06b72a9cfd87da2fbb75e"
-  integrity sha512-2iqhb+S15sVXFBjHNd7LNP8PCk3NT0FzRSHLgOuMKnKtiTwpVblgTVW77zl3Ybgjye/yP4+j8wC0NgkSuQ8EXg==
+any-prebuilt@1.0.38:
+  version "1.0.38"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.38.tgz#ad29484a7cc67cd1d1e03b545b3914abe384f248"
+  integrity sha512-5jWcDXLvL1F3I6OcM53Ttk54KgddSu3lnIFWJD8cbc33YUBLMj9//oFavz3+CCLiB5u/phmiCMo5/xQ+KJOkuw==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "7.0.1"
@@ -565,9 +565,9 @@ readable-stream@^2.0.0, readable-stream@~2.3.6:
     util-deprecate "~1.0.1"
 
 readable-stream@^3.0.1, readable-stream@^3.1.1:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-3.2.0.tgz#de17f229864c120a9f56945756e4f32c4045245d"
-  integrity sha512-RV20kLjdmpZuTF1INEb9IA3L68Nmi+Ri7ppZqo78wj//Pn62fCoJyV9zalccNzDD/OuJpMG4f+pfMl8+L6QdGw==
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-3.3.0.tgz#cb8011aad002eb717bf040291feba8569c986fb9"
+  integrity sha512-EsI+s3k3XsW+fU8fQACLN59ky34AZ14LoeVZpYwmZvldCFo0r0gnelwF2TcMjLor/BTL5aDJVBMkss0dthToPw==
   dependencies:
     inherits "^2.0.3"
     string_decoder "^1.1.1"
