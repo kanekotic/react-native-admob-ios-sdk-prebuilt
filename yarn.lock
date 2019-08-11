@@ -17,10 +17,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.55:
-  version "1.0.55"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.55.tgz#e5e260f2d06cf2bd03181ff03811b4c5de7b2034"
-  integrity sha512-kghHH3UWzYKqfaa4uvhoVePJ5QIoLj1l1S9Fk/zItB9VBXsRNfOykizQECaRG9HueixSDyy6EMxf/ynB3TF3dw==
+any-prebuilt@1.0.56:
+  version "1.0.56"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.56.tgz#e6fc7ee08391d21173529cece9e72894b53fe33f"
+  integrity sha512-GtFK5uB4nQKB3wqL/LO6ZfI1utdN/35+YKCglxj/bRcIju8nqAjj1N99JyAEJkF/1Tg4iazFeXYrwcVB4WO+jw==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "8.1.0"
@@ -622,7 +622,7 @@ rimraf@~2.6.2:
   dependencies:
     glob "^7.1.3"
 
-safe-buffer@^5.0.1, safe-buffer@^5.1.2:
+safe-buffer@^5.0.1, safe-buffer@^5.1.2, safe-buffer@~5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.0.tgz#b74daec49b1148f88c64b68d49b1e815c1f2f519"
   integrity sha512-fZEwUGbVl7kouZs1jCdMLdt95hdIv0ZeHg6L7qPeciMZhZ+/gdesW4wgTARkrFWEpspjEATAzUGPG8N2jJiwbg==
@@ -663,11 +663,11 @@ stream-shift@^1.0.0:
   integrity sha1-1cdSgl5TZ+eG944Y5EXqIjoVWVI=
 
 string_decoder@^1.1.1:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-1.2.0.tgz#fe86e738b19544afe70469243b2a1ee9240eae8d"
-  integrity sha512-6YqyX6ZWEYguAxgZzHGL7SsCeGx3V2TtOTqZz1xSTSWnqsbWwbptafNyvf/ACquZUXV3DANr5BDIwNYe1mN42w==
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-1.3.0.tgz#42f114594a46cf1a8e30b0a84f56c78c3edac21e"
+  integrity sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA==
   dependencies:
-    safe-buffer "~5.1.0"
+    safe-buffer "~5.2.0"
 
 string_decoder@~0.10.x:
   version "0.10.31"
