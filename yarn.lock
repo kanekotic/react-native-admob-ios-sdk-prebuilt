@@ -17,10 +17,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.57:
-  version "1.0.57"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.57.tgz#0e663c65b2806295d2a87d5161db015594b40992"
-  integrity sha512-mf5Dc83Ebf5J/+MuVq82G5occjxRhmfucMXyJE/r/8SQd99otcapc80K3IpVUJ2BLth8I1xlvOj/m0dtFLnhBg==
+any-prebuilt@1.0.58:
+  version "1.0.58"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.58.tgz#16ce3343a6f9b253b6ed16f546b26b57aa953492"
+  integrity sha512-sfLm/N7X6ppSPZGOjvjuS2AEaG7ZPkMUNQOgvRGP/cpdSA34kysYOqQxF39/KyeFOeuG7vQbPt6qRuTsR0KKSg==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "8.1.0"
@@ -775,9 +775,9 @@ util-deprecate@^1.0.1, util-deprecate@~1.0.1:
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
 
 uuid@^3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
-  integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.3.tgz#4568f0216e78760ee1dbf3a4d2cf53e224112866"
+  integrity sha512-pW0No1RGHgzlpHJO1nsVrHKpOEIxkGg1xB+v0ZmdNH5OAeAwzAVrCnI2/6Mtx+Uys6iaylxa+D3g4j63IKKjSQ==
 
 verror@1.10.0:
   version "1.10.0"
