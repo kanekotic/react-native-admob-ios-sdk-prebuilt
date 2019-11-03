@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/kanekotic/react-native-admob-ios-sdk-prebuilt#readme",
   "dependencies": {
-    "any-prebuilt": "1.0.67"
+    "any-prebuilt": "1.0.68"
   },
   "prebuilt": {
     "user": "kanekotic",
