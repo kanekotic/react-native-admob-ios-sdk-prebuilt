@@ -17,10 +17,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.69:
-  version "1.0.69"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.69.tgz#37a943a2efc9b69957e836ec20044810dea82e07"
-  integrity sha512-KfR+wNGjmsZ6Y2/hHIHMhvb8ap0wl2w2bBqaDDqP/bD2xFoqJZABGxY3SUpCdQactivlXa/RyQoWAlwt3KOeHg==
+any-prebuilt@1.0.70:
+  version "1.0.70"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.70.tgz#2b83d8d32e7826cdfcbcc34fc43a049e0a812b85"
+  integrity sha512-ta32Wpf+bQ9LIIo78PHQ3RACy8sPd1BxCuwmsSdNR2+AI+p7mfnBxuWgRosAMfH+jD+H+9fIJ/Cf1QNCNm2/pQ==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "8.1.0"
@@ -395,17 +395,17 @@ lodash@^4.17.15:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
-mime-db@1.40.0:
-  version "1.40.0"
-  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.40.0.tgz#a65057e998db090f732a68f6c276d387d4126c32"
-  integrity sha512-jYdeOMPy9vnxEqFRRo6ZvTZ8d9oPb+k18PKoYNYUe2stVEBPPwsln/qWzdbmaIvnhZ9v2P+CuecK+fpUfsV2mA==
+mime-db@1.42.0:
+  version "1.42.0"
+  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.42.0.tgz#3e252907b4c7adb906597b4b65636272cf9e7bac"
+  integrity sha512-UbfJCR4UAVRNgMpfImz05smAXK7+c+ZntjaA26ANtkXLlOe947Aag5zdIcKQULAiF9Cq4WxBi9jUs5zkA84bYQ==
 
 mime-types@^2.1.12, mime-types@~2.1.19:
-  version "2.1.24"
-  resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.24.tgz#b6f8d0b3e951efb77dedeca194cff6d16f676f81"
-  integrity sha512-WaFHS3MCl5fapm3oLxU4eYDw77IQM2ACcxQ9RIxfaC3ooc6PFuBMGZZsYpvoXS5D5QTWPieo1jjLdAm3TBP3cQ==
+  version "2.1.25"
+  resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.25.tgz#39772d46621f93e2a80a856c53b86a62156a6437"
+  integrity sha512-5KhStqB5xpTAeGqKBAMgwaYMnQik7teQN4IAzC7npDv6kzeU6prfkR67bc87J1kWMPGkoaZSq1npmexMgkmEVg==
   dependencies:
-    mime-db "1.40.0"
+    mime-db "1.42.0"
 
 minimatch@^3.0.4:
   version "3.0.4"
