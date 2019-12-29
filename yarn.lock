@@ -17,10 +17,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.75:
-  version "1.0.75"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.75.tgz#d321056a335bc20c9fd21d4a66d6ada6ca79596f"
-  integrity sha512-0MNo1b17xErCutXuK0m3AuYD+4nTCXs1X4VC3TGIpcvGg+L3WdCSY+8PuwlpiiVs/2BlfV0cHh2BeTC22Vq+5Q==
+any-prebuilt@1.0.76:
+  version "1.0.76"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.76.tgz#3cb65f03d2581110f091e955df97baa5721c577e"
+  integrity sha512-f5GNS//sNNT/4RWEQ/Gp5fjxqJkE+RgJ2remnfkERZaTYugmQANurAsEbHKX60XU+WfXG9Yn7X638Aiw0yiQYg==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "8.1.0"
@@ -492,9 +492,9 @@ progress@2.0.3:
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
 psl@^1.1.24, psl@^1.1.28:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/psl/-/psl-1.6.0.tgz#60557582ee23b6c43719d9890fb4170ecd91e110"
-  integrity sha512-SYKKmVel98NCOYXpkwUqZqh0ahZeeKfmisiLIcEZdsb+WbLv02g/dI5BUmZnIyOe7RzZtLax81nnb2HbvC2tzA==
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/psl/-/psl-1.7.0.tgz#f1c4c47a8ef97167dea5d6bbf4816d736e884a3c"
+  integrity sha512-5NsSEDv8zY70ScRnOTn7bK7eanl2MvFrOrS/R6x+dBt5g1ghnj9Zv90kO8GwT8gxcu2ANyFprnFYB85IogIJOQ==
 
 pump@^2.0.0:
   version "2.0.1"
