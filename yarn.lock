@@ -17,10 +17,10 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.94:
-  version "1.0.94"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.94.tgz#92a1571f89ef3da8f0f0b94bfa2c143527af084e"
-  integrity sha512-voFL7SgsOivZJU51Tcm/Tr1fMvxr3hhxh0TdfEwJ+jALzge+7YvPlO0mHJeBrtw1sKqAie/QFbF62ImoygjQZA==
+any-prebuilt@1.0.95:
+  version "1.0.95"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.95.tgz#98e67e424084909712526e0dfc03c570d12d9634"
+  integrity sha512-9FRy9A1i6p/+YR0uv75pDb6GVu6VkzQkgtwtA1BWeKf7/2xgP7IGoIlT025CZbJNMBJ6ZlIauQe6G0d8hSWdLQ==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "9.0.0"
@@ -443,9 +443,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 mkdirp-classic@^0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/mkdirp-classic/-/mkdirp-classic-0.5.2.tgz#54c441ce4c96cd7790e10b41a87aa51068ecab2b"
-  integrity sha512-ejdnDQcR75gwknmMw/tx02AuRs8jCtqFoFqDZMjiNxsu85sRIJVXDKHuLYvUUPRBUtV2FpSZa9bL1BUa3BdR2g==
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/mkdirp-classic/-/mkdirp-classic-0.5.3.tgz#fa10c9115cc6d8865be221ba47ee9bed78601113"
+  integrity sha512-gKLcREMhtuZRwRAfqP3RFW+TK4JqApVBtOIftVgjuABpAtpxhPGaDcfvbhNvD0B8iD1oUr/txX35NjcaY6Ns/A==
 
 mkpath@^0.1.0:
   version "0.1.0"
