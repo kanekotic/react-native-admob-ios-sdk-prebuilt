@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.111:
-  version "1.0.111"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.111.tgz#b027db0cc67cc4165fede355f5da05d67dbe5abe"
-  integrity sha512-cRTNcKkFdRVuwlHtd13vlwPHwj2eNTiJVR/2y6/u7tsJnsI4ir5GG/ODMMC2OEvBMUa91pVaWZG7t9ig85KaIQ==
+any-prebuilt@1.0.112:
+  version "1.0.112"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.112.tgz#c4dce52f47f8c4c7eba6c53262f4ea35112d8bea"
+  integrity sha512-kcohtQ1jO+B++4TXX6c4h2ZgP0Kfqm7IK9VzlJkc5Q6FfZnsnGYzf+AiIWp9BwyAKFDsFXHV+jWVxsxUXMo/1g==
   dependencies:
     decompress-zip "0.3.1"
     fs-extra "9.0.1"
@@ -771,9 +771,9 @@ universalify@^1.0.0:
   integrity sha512-rb6X1W158d7pRQBg5gkR8uPaSfiids68LTJQYOtEUhoJUWBdaQHsuT/EUduxXYxcrt4r5PJ4fuHW1MHT6p0qug==
 
 uri-js@^4.2.2:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/uri-js/-/uri-js-4.3.0.tgz#e16cb9ef7b4036d74be59dc7342258e6f1aca20e"
-  integrity sha512-Q9Q9RlMM08eWfdPPmDDrXd8Ny3R1sY/DaRDR2zTPPneJ6GYiLx3++fPiZobv49ovkYAnHl/P72Ie3HWXIRVVYA==
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/uri-js/-/uri-js-4.4.0.tgz#aa714261de793e8a82347a7bcc9ce74e86f28602"
+  integrity sha512-B0yRTzYdUCCn9n+F4+Gh4yIDtMQcaJsmYBDsTSG8g/OejKBodLQ2IHfN3bM7jUsRXndopT7OIXWdYqc1fjmV6g==
   dependencies:
     punycode "^2.1.0"
 
